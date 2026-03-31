@@ -124,9 +124,3 @@ python main.py
 * O WordPiece foi utilizado via biblioteca para simular uso industrial
 
 ---
-
-## Versão
-
-v1.0
-
----
